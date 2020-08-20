@@ -10,16 +10,16 @@ body {
 .container {
   max-width: 400px;
   min-width: 400px;
-}
+ }
 
 .title {
   font-weight: 700;
   font-size: 50px;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 .container {
-  margin-top: 25px;
+  margin-top: 10px;
   font-size: 30px;
   background-image: linear-gradient(
     to bottom,
