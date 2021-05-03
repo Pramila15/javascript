@@ -20,7 +20,7 @@ console.log(myAge);
 
 //cant override value
 const points = 50;
-points = 20;
+//points = 20;
 console.log(points);
 
 // Single line comment
@@ -45,3 +45,29 @@ console.log(email);
 let firstName = 'Pramila';
 let lastName = 'Dalavai';
 
+//string concatenation
+console.log(firstName + lastName);
+
+//getting characters
+let fullName = firstName + lastName;
+console.log(fullName[2]);
+
+//string length
+console.log(fullName.length);
+
+//string methods
+console.log(fullName.toLowerCase());
+console.log(fullName.toUpperCase());
+
+let index = email.indexOf('@');
+
+let result = email.lastIndexOf('n');
+let res = email.slice(0, 10);
+console.log(result);
+console.log(res);
+
+let sub = email.substr(0, 10);
+console.log(sub);
+
+let rep = email.replace('m', 'W');
+console.log(rep);
