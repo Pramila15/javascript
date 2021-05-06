@@ -4,3 +4,4 @@
 <p>Dice Game https://dicegame-pramila15.netlify.app/</p>
 <p>Weather App https://weather-pramila15.netlify.app/</p>
   <p>Javascript Basics - branch js-basics </p>
+  <p>Modern Javascript ES6 - branch ES6 </p>
